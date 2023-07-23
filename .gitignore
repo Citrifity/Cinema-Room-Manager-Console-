@@ -1,0 +1,108 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Cinema Room Manager (Console)/*
+!/Cinema Room Manager (Console)/task/
+/Cinema Room Manager (Console)/task/*
+!/Cinema Room Manager (Console)/task/src
+
+# Project exclude paths
+/Topics/Boolean and logical operations/Invitations and gifts/out/
+/Topics/Boolean and logical operations/Invitations and gifts/out/production/classes/
+/Topics/Boolean and logical operations/Program a Boolean function/out/
+/Topics/Boolean and logical operations/Program a Boolean function/out/production/classes/
+/Topics/Characters/Compare Latin letters/out/
+/Topics/Characters/Compare Latin letters/out/production/classes/
+/Topics/Characters/Comparing numbers and characters/out/
+/Topics/Characters/Comparing numbers and characters/out/production/classes/
+/Topics/Characters/Digits or not/out/
+/Topics/Characters/Digits or not/out/production/classes/
+/Topics/Comments/Hello, Kotlin/out/
+/Topics/Comments/Hello, Kotlin/out/production/classes/
+/Topics/Data types/Edit it/out/
+/Topics/Data types/Edit it/out/production/classes/
+/Topics/Declaring functions/Comparing sums/out/
+/Topics/Declaring functions/Comparing sums/out/production/classes/
+/Topics/Declaring functions/The square of a number/out/
+/Topics/Declaring functions/The square of a number/out/production/classes/
+/Topics/Equality/How to compare/out/
+/Topics/Equality/How to compare/out/production/classes/
+/Topics/Floating-point types/Distance/out/
+/Topics/Floating-point types/Distance/out/production/classes/
+/Topics/Floating-point types/Liquid pressure/out/
+/Topics/Floating-point types/Liquid pressure/out/production/classes/
+/Topics/Floating-point types/Uses the Double in the calculations/out/
+/Topics/Floating-point types/Uses the Double in the calculations/out/production/classes/
+/Topics/For loop and lists/Individual taxes/out/
+/Topics/For loop and lists/Individual taxes/out/production/classes/
+/Topics/For loop and lists/Number in a set/out/
+/Topics/For loop and lists/Number in a set/out/production/classes/
+/Topics/For loop and ranges/The roots of equation/out/
+/Topics/For loop and ranges/The roots of equation/out/production/classes/
+/Topics/For loop and ranges/The sum of integers from a to b/out/
+/Topics/For loop and ranges/The sum of integers from a to b/out/production/classes/
+/Topics/Hierarchy of exceptions/Fix the code/out/
+/Topics/Hierarchy of exceptions/Fix the code/out/production/classes/
+/Topics/If expression/Check a number is positive/out/
+/Topics/If expression/Check a number is positive/out/production/classes/
+/Topics/If expression/Knights/out/
+/Topics/If expression/Knights/out/production/classes/
+/Topics/Integers in action/The first digit of a two-digit number/out/
+/Topics/Integers in action/The first digit of a two-digit number/out/production/classes/
+/Topics/Introduction to MutableList/Initializing a mutable list of integers/out/
+/Topics/Introduction to MutableList/Initializing a mutable list of integers/out/production/classes/
+/Topics/Invoking functions/Lembas/out/
+/Topics/Invoking functions/Lembas/out/production/classes/
+/Topics/Multi-dimensional list/Corners/out/
+/Topics/Multi-dimensional list/Corners/out/production/classes/
+/Topics/Multi-dimensional list/Kotlin lists/out/
+/Topics/Multi-dimensional list/Kotlin lists/out/production/classes/
+/Topics/Overview of the basic program/Multiple statements/out/
+/Topics/Overview of the basic program/Multiple statements/out/production/classes/
+/Topics/Overview of the basic program/The Hello World program/out/
+/Topics/Overview of the basic program/The Hello World program/out/production/classes/
+/Topics/Ranges/Working hours/out/
+/Topics/Ranges/Working hours/out/production/classes/
+/Topics/Relational operators/Who is less than 10/out/
+/Topics/Relational operators/Who is less than 10/out/production/classes/
+/Topics/Repeating blocks/Repeat by value/out/
+/Topics/Repeating blocks/Repeat by value/out/production/classes/
+/Topics/Repeating blocks/Size of parts/out/
+/Topics/Repeating blocks/Size of parts/out/production/classes/
+/Topics/Standard input with Java Scanner/Read and print/out/
+/Topics/Standard input with Java Scanner/Read and print/out/production/classes/
+/Topics/Standard output/First, second, third/out/
+/Topics/Standard output/First, second, third/out/production/classes/
+/Topics/Standard output/From 0 to 9/out/
+/Topics/Standard output/From 0 to 9/out/production/classes/
+/Topics/String basics/JSON/out/
+/Topics/String basics/JSON/out/production/classes/
+/Topics/String templates/Date and time formatting/out/
+/Topics/String templates/Date and time formatting/out/production/classes/
+/Topics/Taming exceptions/Handle string exception/out/
+/Topics/Taming exceptions/Handle string exception/out/production/classes/
+/Topics/Type conversion/Simple converter/out/
+/Topics/Type conversion/Simple converter/out/production/classes/
+/Topics/Values and variables/Fix the program/out/
+/Topics/Values and variables/Fix the program/out/production/classes/
+/Topics/What is an exception/Cause an exception/out/
+/Topics/What is an exception/Cause an exception/out/production/classes/
+/Topics/When expression/FTN-Numbers/out/
+/Topics/When expression/FTN-Numbers/out/production/classes/
+/Topics/When expression/Just checking/out/
+/Topics/When expression/Just checking/out/production/classes/
+/Topics/When expression/String processor/out/
+/Topics/When expression/String processor/out/production/classes/
+/Topics/While loops/The sequence 1 2 2 3 3 3/out/
+/Topics/While loops/The sequence 1 2 2 3 3 3/out/production/classes/
+/Topics/Work with MutableLists/Empty/out/
+/Topics/Work with MutableLists/Empty/out/production/classes/
